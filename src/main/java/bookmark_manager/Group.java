@@ -1,4 +1,4 @@
-package bookmark_manager;
+package src.main.java.bookmark_manager;
 
 import java.util.ArrayList;
 import java.util.List;
